@@ -1,3 +1,3 @@
 const colors = require('colors')
 
-console.log("Hello World pessoal".blue)
+console.log("Hello World pessoal".red)
