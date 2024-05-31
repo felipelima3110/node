@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js - Curso avançado de JavaScript",
+  "main": "hello.js",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'Hello World'",
+    "dev": "nodemon fundamentos/hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipelima3110/node.git"
+  },
+  "keywords": [
+    "javascrpi",
+    "node",
+    "nodejs"
+  ],
+  "author": "Professor José da Assis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipelima3110/node/issues"
+  },
+  "homepage": "https://github.com/felipelima3110/node#readme"
+}
